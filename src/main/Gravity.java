@@ -12,10 +12,11 @@ public class Gravity {
         double speed;
         double time;
         double distance;
+        float gravity = 9.8;
+
 
 		/* TODO 2:
-         *   a.
-		 *   b. Declare a constant for 'gravity', assume the value to be 9.8
+         *   b.
 		 *   c. Calculate the result and print it to the screen.
 		 * */
 	}
